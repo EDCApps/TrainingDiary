@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrainingDiary</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- More menu-->
+    <string name="show_splash">Show Splash screen</string>
+    <string name="load_my_training">Load my training</string>
+    <string name="about_autors">About autors</string>
+</resources>
